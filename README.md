@@ -13,3 +13,13 @@ An extensible SnakeGame
 1. User can give the design of the new board through Text file. 
 2. Winning size of the snake needs to be given. 
 3. Number of fruits for the particular level needs to be set.
+
+
+
+# Roles:
+1. Game Designer
+2. Player
+
+# Rules of the Game:
+ 1. When snake touches the corners, obstacles or itself, then it dies. 
+ 2. When snake eats a fruit, it grows in size by 
